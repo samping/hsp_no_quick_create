@@ -12,7 +12,7 @@
     'website': "https://www.garage-kit.com",
     'images': ['static/description/logo.png'],
     'category': 'Reporting',
-    'version': '13.0.1.0.0',
+    'version': '12.0.1.0.0',
   
     'depends': [
         'base', 'web',
