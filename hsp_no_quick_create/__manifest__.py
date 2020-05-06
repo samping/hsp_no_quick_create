@@ -1,7 +1,7 @@
 # Copyright 2019 EINFO HSP
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 {
-    'name': "Relative field no quick create by HSP",
+    'name': "Relative field forbid quick create by HSP",
 
     'summary': "屏蔽many2one many2many 等直接创建按钮",
    'license': 'LGPL-3',
