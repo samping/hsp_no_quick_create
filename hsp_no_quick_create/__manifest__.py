@@ -8,7 +8,7 @@
    'description': """
     屏蔽many2one many2many 等直接创建按钮
    """,
-    'author': 'HSP'',
+    'author': 'HSP',
     'website': "https://www.garage-kit.com",
     'images': ['static/description/logo.png'],
     'category': 'Tools',
